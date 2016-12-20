@@ -1,1 +1,5 @@
-# The Diffrence between Regular Languges and Conext-Free Langues
+# The difference between Regular and Context-free Languages  
+
+## Regular Grammar
+
+## Contex-free Grammar
